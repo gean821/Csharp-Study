@@ -1,0 +1,15 @@
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\Csharp-Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\Csharp-Learning.AssemblyInfoInputs.cache
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\Csharp-Learning.AssemblyInfo.cs
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\Csharp-Learning.csproj.CoreCompileInputs.cache
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\Csharp-Learning.sourcelink.json
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\bin\Debug\net8.0\Csharp-Learning.exe
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\bin\Debug\net8.0\Csharp-Learning.deps.json
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\bin\Debug\net8.0\Csharp-Learning.runtimeconfig.json
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\bin\Debug\net8.0\Csharp-Learning.dll
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\bin\Debug\net8.0\Csharp-Learning.pdb
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\Csharp-Learning.dll
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\refint\Csharp-Learning.dll
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\Csharp-Learning.pdb
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\Csharp-Learning.genruntimeconfig.cache
+C:\ESTUDO\C#\Csharp-Study\C#- Learning\C#- Learning\obj\Debug\net8.0\ref\Csharp-Learning.dll
